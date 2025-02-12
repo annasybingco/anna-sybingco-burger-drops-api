@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "photo": "",
+    "title": "Original Burger",
+    "description": "Griddled sweet onion, American cheese, house pickles, drop sauce, toasted potato roll.",
+    "price": 8.5,
+    "ingredients": ["Cheese", "Onions", "Pickles", "Drop Sauce"]
+  },
+
+  {
+    "id": "",
+    "photo": "",
+    "title": "American Burger",
+    "description": "Ketchup relish, fresh diced onion, lettuce, American cheese, drop sauce, toasted potato roll.",
+    "price": 8.5,
+    "ingredients": ["Cheese", "Onions", "Pickles", "Drop Sauce"]
+  },
+  {
+    "id": "",
+    "photo": "",
+    "title": "Chicken Burger",
+    "description": "Our house-made chicken patty with shredded lettuce, pickles and garlic may served on a toasted sesame bun.",
+    "price": 11
+  },
+  {
+    "id": "",
+    "photo": "",
+    "title": "Veggie Burger",
+    "description": "Barley-mushrooms-carrot-leek patty, American cheese, toasted potato roll.",
+    "price": 11
+  }
+]
