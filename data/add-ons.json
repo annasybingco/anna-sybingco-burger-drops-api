@@ -1,1 +1,10 @@
-[{ "ingredients": "Cheese", "price": 10 }]
+[
+  { "ingredient": "Bacon", "price": 3 },
+  { "ingredient": "Jalapeño Relish", "price": 1 },
+  {
+    "ingredient": "Ketchup Relish",
+    "price": 1
+  },
+  { "ingredient": "Lettuce Bun", "price": 0 },
+  { "ingredient": "Ketchup Relish", "price": 0 }
+]

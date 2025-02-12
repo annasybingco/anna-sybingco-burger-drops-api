@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "photo": "http://localhost:8080/images/original.png",
+    "title": "Original Burger",
+    "description": "Griddled sweet onion, American cheese, house pickles, drop sauce, toasted potato roll.",
+    "price": 8.5,
+    "ingredients": ["Cheese", "Onions", "Pickles", "Drop Sauce"]
+  },
+
+  {
+    "id": 2,
+    "photo": "http://localhost:8080/images/american.png",
+    "title": "American Burger",
+    "description": "Ketchup relish, fresh diced onion, lettuce, American cheese, drop sauce, toasted potato roll.",
+    "price": 8.5,
+    "ingredients": ["Cheese", "Onions", "Pickles", "Drop Sauce"]
+  },
+  {
+    "id": 3,
+    "photo": "http://localhost:8080/images/chicken.png",
+    "title": "Chicken Burger",
+    "description": "Our house-made chicken patty with shredded lettuce, pickles and garlic may served on a toasted sesame bun.",
+    "price": 11
+  },
+  {
+    "id": 4,
+    "photo": "http://localhost:8080/images/veggie.png",
+    "title": "Veggie Burger",
+    "description": "Barley-mushrooms-carrot-leek patty, American cheese, toasted potato roll.",
+    "price": 11
+  },
+  {
+    "id": 5,
+    "photo": "http://localhost:8080/images/fries.png",
+    "title": "Crinkle cut fries",
+    "description": "Side of ketchup, Peanut oil-free",
+    "price": 6
+  },
+  {
+    "id": 6,
+    "photo": "http://localhost:8080/images/curly-fries.png",
+    "title": "Curly Fries",
+    "description": "Panko-crusted, seasoned with Old Bay with a side of Drop Sauce.",
+    "price": 6
+  },
+  {
+    "id": 7,
+    "photo": "http://localhost:8080/images/cheese-fries.png",
+    "title": "Cheese Fries",
+    "description": "Seasoned fries, cheese sauce, pickled jalapeño relish.",
+    "price": 8
+  },
+  {
+    "id": 8,
+    "photo": "http://localhost:8080/images/dessert.png",
+    "title": "Lemon Cream Pudding",
+    "description": "Tart lemon curd layered with sweet vanilla cream pudding, toasted graham cracker and meringue.",
+    "price": 8
+  },
+  {
+    "id": 9,
+    "photo": "http://localhost:8080/images/pop.png",
+    "title": "Pop Cans & water",
+    "description": "Add coke zero, diet coke, classic coke or ginger-ale to your order.",
+    "price": 2
+  },
+  {
+    "id": 10,
+    "photo": "http://localhost:8080/images/boylans.png",
+    "title": "Boylan’s Soda",
+    "description": "Your choice of Boylan’s Root Beer or Black Cherry Soda.",
+    "price": 2.5
+  }
+]
