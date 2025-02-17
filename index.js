@@ -2,7 +2,7 @@ import express from "express";
 import cors from "cors";
 import "dotenv/config";
 import menuRoute from "./routes/menu.js";
-import ingredientRoute from "./routes/add-ons.js";
+import ingredientRoute from "./routes/ingredients.js";
 
 const PORT = process.env.PORT || 8000;
 const { CORS_ORIGIN } = process.env;

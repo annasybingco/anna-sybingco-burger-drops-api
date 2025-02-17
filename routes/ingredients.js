@@ -2,7 +2,7 @@ import express from "express";
 import fs from "fs";
 const router = express.Router();
 
-const data = fs.readFileSync("./data/add-ons.json", "utf8");
+const data = fs.readFileSync("./data/ingredients.json", "utf8");
 const ingredient = JSON.parse(data);
 
 router.get("/", function (req, res) {
