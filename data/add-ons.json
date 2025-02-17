@@ -6,5 +6,5 @@
     "price": 1
   },
   { "ingredient": "Lettuce Bun", "price": 0 },
-  { "ingredient": "Ketchup Relish", "price": 0 }
+  { "ingredient": "Ketchup", "price": 0 }
 ]
