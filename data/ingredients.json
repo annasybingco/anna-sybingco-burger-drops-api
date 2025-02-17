@@ -1,7 +1,7 @@
 [
-  { "id": 1, "ingredient": "Bacon", "price": 3 },
-  { "id": 2, "ingredient": "Jalapeño Relish", "price": 1 },
-  { "id": 3, "ingredient": "Ketchup Relish", "price": 1 },
-  { "id": 4, "ingredient": "Lettuce Bun", "price": 0 },
-  { "id": 5, "ingredient": "Ketchup", "price": 0 }
+  { "id": 1, "ingredient": "Bacon", "price": "+$3.00" },
+  { "id": 2, "ingredient": "Jalapeño Relish", "price": "+$1.00" },
+  { "id": 3, "ingredient": "Ketchup Relish", "price": "+$1.00" },
+  { "id": 4, "ingredient": "Lettuce Bun", "price": "" },
+  { "id": 5, "ingredient": "Ketchup", "price": "" }
 ]
