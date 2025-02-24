@@ -66,3 +66,14 @@ I plan on getting menu item data from my api.
 ## Future Implementations
 
 • View a rewards page, FAQ page, and order history
+
+## Installation Instructions
+
+This code uses the following dependencies;
+cors, dotenv and express.
+
+Please run the following commands:
+
+- npm i cors
+- npm i dotenv
+- npm i express
